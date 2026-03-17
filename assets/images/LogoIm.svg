@@ -1,0 +1,21 @@
+
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <!-- Bulle carrée arrondie : contour vert épais -->
+  <rect x="16" y="32" width="96" height="64" rx="16" ry="16" fill="white" stroke="green" stroke-width="8"/>
+
+  <!-- Bande horizontale verte au centre -->
+  <rect x="36" y="52" width="56" height="24" rx="12" ry="12" fill="green"/>
+
+  <!-- Trois points centraux blancs sur la bande verte -->
+  <circle cx="48" cy="64" r="6" fill="white"/>
+  <circle cx="64" cy="64" r="6" fill="white"/>
+  <circle cx="80" cy="64" r="6" fill="white"/>
+
+  <!-- Texte MiniWasApp en vert dans le blanc en bas -->
+  <text x="64" y="92" font-family="Arial, sans-serif" font-size="10" text-anchor="middle" fill="green">MiniWasApp</text>
+
+  <!-- Deux étoiles dorées en haut à droite -->
+  <polygon points="100,24 104,36 116,36 106,44 110,56 100,48 90,56 94,44 84,36 96,36" fill="#FFD700"/>
+  <polygon points="112,28 114,36 122,36 116,40 118,48 112,44 106,48 108,40 102,36 110,36" fill="#FFD700"/>
+</svg>
